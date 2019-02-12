@@ -1,0 +1,10 @@
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\bin\Debug\ColorMixer-P3.exe.config
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\bin\Debug\ColorMixer-P3.exe
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\bin\Debug\ColorMixer-P3.pdb
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\obj\Debug\ColorMixer-P3.csprojAssemblyReference.cache
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\obj\Debug\ColorMixer_P3.ColorForm.resources
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\obj\Debug\ColorMixer_P3.Properties.Resources.resources
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\obj\Debug\ColorMixer-P3.csproj.GenerateResource.cache
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\obj\Debug\ColorMixer-P3.csproj.CoreCompileInputs.cache
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\obj\Debug\ColorMixer-P3.exe
+C:\Users\dcox\source\repos\ColorMixer-P3\ColorMixer-P3\obj\Debug\ColorMixer-P3.pdb
